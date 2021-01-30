@@ -1,0 +1,52 @@
+.carousel .carousel-item {
+  height: 920px;
+}
+
+.btn-primary-outline {
+  background-color: transparent;
+  border-color: #ccc;
+}
+
+.link2{
+  color: #212529;
+}
+
+.link2:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.link1 {
+  color: white;
+}
+
+.link1:hover {
+  text-decoration: none;
+  color: #cfcaca;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
+
+.Aldiyar {
+  position: absolute;
+  margin-left: 10%;
+  margin-top: 20%;
+}
+
+.Aibar {
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 10%;
+}
+
+.Aruzhan {
+  position: absolute;
+  margin-left: 10%;
+  margin-top: 10%;
+}
